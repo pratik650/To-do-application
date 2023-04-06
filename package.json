@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://pratik650.github.io//To-do-application/",
+  "homepage": "https://pratik650.github.io/To-do-application",
   "private": true,
   "dependencies": {
     "@ant-design/pro-components": "^2.4.4",
